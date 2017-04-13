@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projectos2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.projectos2.MainActivity"
+            android:label="العياده"
+            android:theme="@android:style/Theme.Black" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Second"
+            android:label="اختار ماتريد"
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_Heart"
+            android:label=" الدكتور محمد جلال "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+     
+       
+       
+        <activity
+            android:name="com.example.projectos2.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:parentActivityName="android.accounts.AccountAuthenticatorActivity"
+            android:theme="@android:style/Theme.Black"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.accounts.AccountAuthenticatorActivity" />
+        </activity>
+        <activity
+            android:name="com.example.projectos2.FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.BookMohamedElsayed"
+            android:label="الدكتور محمد السيد"
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_AlaaElb3"
+            android:label="الدكتور علاء البغداداى "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_ibrahimMahmoud"
+            android:label="الدكتورابراهيم محمود "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_AlaaHus"
+            android:label="الدكتورعلاء حسين "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_AhmedReda"
+            android:label="الدكتورأحمد رضا "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_IbrahimElsayed"
+            android:label=" الدكتور ابراهيم السيد "
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+        <activity
+            android:name="com.example.projectos2.Book_RedaMahmoud"
+             android:label=" الدكتور رضا محمود"
+            android:theme="@android:style/Theme.Black"  >
+        </activity>
+    </application>
+
+</manifest>
