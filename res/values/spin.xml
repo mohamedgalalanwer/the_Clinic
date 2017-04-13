@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="spcial">
+        <item>جراحه العظام</item>
+        
+         <item>امراض الدم</item>
+          <item>جراحه القلب</item>
+           <item>جراحه عامه</item>
+        
+        
+    </string-array>
+    
+    
+    <string-array name="Dctor1">
+        <item >محمد جلال </item>
+        
+           <item >محمد السيد</item>
+        
+        
+    </string-array>
+    
+      <string-array name="Dctor2">
+         <item >علاء البغداداى</item>
+           <item >ابراهيم محمود</item>
+          
+        
+        
+    </string-array>
+      <string-array name="Dctor3">
+        
+           <item >احمد رضا</item>
+        
+           <item >علاء حسين</item>
+        
+    </string-array>
+      <string-array name="Dctor4">
+           <item >ابراهيم السيد</item>
+        
+           <item >رضا محمود</item>
+        
+        
+    </string-array>
+</resources>

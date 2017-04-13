@@ -1,0 +1,49 @@
+<resources>
+
+ <string name="app_name">ProjectOS2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_second">Second</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">"                         Welcome to the ..................."</string>
+    <string name="w">                مرحبا بك فى    .......       </string>
+    <string name="go">أضغط هنا </string>
+    <string name="chose">اختار بالترتيب</string>
+    <string name="spical">التخصص</string>
+    <string name="city">المدينه</string>
+    <string name="doc">الدكتور</string>
+    <string name="title_activity_book__heart">Book_Heart</string>
+    <string name="book">"              حجز"</string>
+    <string name="name">الاسم</string>
+    <string name="age">" العمر"</string>
+    <string name="city2">المدينه</string>
+    <string name="submet">ارسال</string>
+    <string name="lvpf">"أ.د:محمد جلال "</string>
+    
+     
+     <string name="lvpf1">"أد:محمد السيد"</string>
+     <string name="lvpf2">"أد:علاء البغداداى  "</string>
+      <string name="lvpf3">"أد:ابراهيم محمود "</string>
+       <string name="lvpf4">"أد:علاء حسين  "</string>
+        <string name="lvpf5">"أد:أحمد رضا "</string>
+         <string name="lvpf6">"أد:ابراهيم السيد "</string>
+          <string name="lvpf7">"أد:رضا محمود "</string>
+    
+    
+    
+    <string name="call">مكالمه صوتيه</string>
+    <string name="chat">مكالمه دردشه</string>
+    <string name="nn">المواعيد:</string>
+    <string name="stringgg">"السبت والاتنين والاربعاء 
+        
+        من الساعه 5مساءا:8مساءا "</string>
+    <string name="title_activity_book_2">Book_2</string>
+    <string name="title_activity_book_3">Book_3</string>
+    <string name="title_activity_book_4">Book_4</string>
+    <string name="title_activity_book_5">Book_5</string>
+    <string name="title_activity_book_6">Book_6</string>
+    <string name="title_activity_book_7">Book_7</string>
+    <string name="title_activity_book_8">Book_8</string>
+    
+</resources>

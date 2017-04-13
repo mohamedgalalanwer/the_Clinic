@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjectOS2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_second">Second</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">"                         Welcome to the ..................."</string>
+    <string name="w">               Welcome to the  .......       </string>
+    <string name="go">Submit </string>
+    <string name="chose">choose</string>
+    <string name="spical">specialization</string>
+    <string name="city">city</string>
+    <string name="doc">Doctor</string>
+    <string name="title_activity_book__heart">Book_Heart</string>
+    <string name="book">"              Book"</string>
+    <string name="name">Name</string>
+    <string name="age">" Age"</string>
+    <string name="city2">City</string>
+    <string name="submet">Send</string>
+    <string name="lvpf">"D:MohamedGalal "</string>
+    <string name="lvpf1">"D:MohamedElsayed "</string>
+    <string name="lvpf2">"D:Alaa ElBg "</string>
+    <string name="lvpf3">"D:IbrahimMahmoud "</string>
+    <string name="lvpf4">"D:Alaa "</string>
+    <string name="lvpf5">"D:Ahmed Reda "</string>
+    <string name="lvpf6">"D:IbrahimElsyed "</string>
+    <string name="lvpf7">"D:RedaMahmoud "</string>
+    <string name="call">Call</string>
+    <string name="chat">chat</string>
+    <string name="nn">Trysts</string>
+    <string name="stringgg">"Saturday,Monday,tharusday
+        
+       5pm:8pm "</string>
+    <string name="title_activity_book_2">Book_2</string>
+    <string name="title_activity_book_3">Book_3</string>
+    <string name="title_activity_book_4">Book_4</string>
+    <string name="title_activity_book_5">Book_5</string>
+    <string name="title_activity_book_6">Book_6</string>
+    <string name="title_activity_book_7">Book_7</string>
+    <string name="title_activity_book_8">Book_8</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="rigiser">register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_book2">Book2</string>
+    <string name="title_activity_book_mohamed_elsayed">BookMohamedElsayed</string>
+    <string name="title_activity_book__alaa_elb3">Book_AlaaElb3</string>
+    <string name="title_activity_book_ibrahim_mahmoud">Book_ibrahimMahmoud</string>
+    <string name="title_activity_book__alaa_hus">Book_AlaaHus</string>
+    <string name="title_activity_book__ahmed_reda">Book_AhmedReda</string>
+    <string name="title_activity_book__ibrahim_elsayed">Book_IbrahimElsayed</string>
+    <string name="title_activity_book__reda_mahmoud">Book_RedaMahmoud</string>
+
+</resources>
